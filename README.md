@@ -1,27 +1,14 @@
 # SPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+This project was build with Angular. Is a application to search datas from the server and project all the datas in the screen of our browser.
 
-## Development server
+## Download and initialize the server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. **Download the project** and install de dependencis with the comand: "npm install" .
 
-## Code scaffolding
+2. After that you have all the dependencies of node_modules you could **run the project** in your shell.
+With the prompt: "ng serve". 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+3. You could make your proves in your browser and looking for some datas in the navbar.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
